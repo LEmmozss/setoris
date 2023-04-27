@@ -2,7 +2,7 @@
 <html>
 <head>
   
-NOSSO SITE 
+***NOSSO SITE***
 <P>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -15,6 +15,7 @@ NOSSO SITE
         <li><a href="#">Porquê do Site</a></li>
         <li><a href="#">Sobre</a></li>
         <li><a href="#">Contato</a></li>
+        <li><a href="#">Objetivo</a></li>
       </ul>
     </nav>
   </header>
@@ -31,6 +32,8 @@ Sobre: Os Alunos: João Pedro Lemos, Luísa Alvarenga, Abner Calebe e Matheus Wi
 
 <P> 
 
+Objetivo: Nesse site iremos nomear os Alunos de honra da sala, os que melhores tiveram notas, melhor frequência do mês.
+
 Contato: Número (43)#####-##60
 
   <footer>
@@ -39,4 +42,4 @@ Contato: Número (43)#####-##60
   <script src="script.js"></script>
 </body>
 </html>
-
+<\head>
